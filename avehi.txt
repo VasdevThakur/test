@@ -1,1 +1,2 @@
 started learning github 
+learning how to edit after commit changes
